@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Doshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Computer Engineer from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Data Structures and much more...**
 
