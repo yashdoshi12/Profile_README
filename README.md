@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Structures and much more...**
 
-- ⚡ Fun fact **I think I am funny**
 <a href="https://ibb.co/jRVzMnH"><img src="https://i.ibb.co/FVsXwRn/Screenshot-2022-06-03-165046-removebg-preview.png" alt="Screenshot-2022-06-03-165046-removebg-preview" height="250" align="right" border="0"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
