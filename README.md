@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Doshi</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Data Structures and much more...**
+- 🌱 I’m currently learning **Machine Learning, Web Development and much more...**
 
-<a href="https://ibb.co/jRVzMnH"><img src="https://i.ibb.co/FVsXwRn/Screenshot-2022-06-03-165046-removebg-preview.png" alt="Screenshot-2022-06-03-165046-removebg-preview" height="250" align="right" border="0"></a>
+<a href="https://ibb.co/jRVzMnH"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashdoshi2701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashdoshi2701" height="30" width="40" /></a>
